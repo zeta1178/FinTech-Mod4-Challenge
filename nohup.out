@@ -76,3 +76,24 @@ TermSocket.open: Opened 1
 [I 2022-07-03 18:45:08.662 ServerApp] New terminal with automatic name: 2
 TermSocket.open: 2
 TermSocket.open: Opened 2
+[I 2022-07-03 18:46:59.817 ServerApp] Saving file at /Module_4_Challange.ipynb
+[W 2022-07-03 18:46:59.820 ServerApp] Notebook Module_4_Challange.ipynb is not trusted
+[I 2022-07-03 18:50:54.452 ServerApp] Saving file at /Module_4_Challange.ipynb
+[W 2022-07-03 18:50:54.455 ServerApp] Notebook Module_4_Challange.ipynb is not trusted
+[I 2022-07-03 18:52:54.566 ServerApp] Saving file at /Module_4_Challange.ipynb
+[W 2022-07-03 18:52:54.568 ServerApp] Notebook Module_4_Challange.ipynb is not trusted
+[I 2022-07-03 18:54:54.677 ServerApp] Saving file at /Module_4_Challange.ipynb
+[W 2022-07-03 18:54:54.680 ServerApp] Notebook Module_4_Challange.ipynb is not trusted
+[I 2022-07-03 18:55:03.169 ServerApp] Saving file at /Module_4_Challange.ipynb
+[W 2022-07-03 18:55:03.171 ServerApp] Notebook Module_4_Challange.ipynb is not trusted
+[I 2022-07-03 18:57:03.273 ServerApp] Saving file at /Module_4_Challange.ipynb
+[W 2022-07-03 18:57:03.276 ServerApp] Notebook Module_4_Challange.ipynb is not trusted
+[I 2022-07-03 18:59:03.410 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-03 19:01:03.532 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-03 19:03:03.642 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-03 19:05:03.772 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-03 19:07:03.889 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-03 19:09:04.002 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-03 19:11:04.104 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-03 19:12:06.190 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-03 19:12:39.111 ServerApp] Saving file at /Module_4_Challange.ipynb
