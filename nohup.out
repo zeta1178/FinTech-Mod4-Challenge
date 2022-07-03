@@ -1,0 +1,27 @@
+nohup: jupyter-lab: No such file or directory
+[I 2022-07-03 17:49:19.752 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-07-03 17:49:19.976 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-07-03 17:49:20.010 ServerApp] The port 8888 is already in use, trying another port.
+[I 2022-07-03 17:49:20.016 LabApp] JupyterLab extension loaded from /Users/michaelcruz/opt/anaconda3/envs/dev/lib/python3.8/site-packages/jupyterlab
+[I 2022-07-03 17:49:20.016 LabApp] JupyterLab application directory is /Users/michaelcruz/opt/anaconda3/envs/dev/share/jupyter/lab
+[I 2022-07-03 17:49:20.019 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-07-03 17:49:20.022 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-07-03 17:49:20.023 ServerApp] Serving notebooks from local directory: /Users/michaelcruz/git/FinTech-Mod4-Challenge
+[I 2022-07-03 17:49:20.023 ServerApp] Jupyter Server 1.4.1 is running at:
+[I 2022-07-03 17:49:20.023 ServerApp] http://localhost:8889/lab
+[I 2022-07-03 17:49:20.023 ServerApp]  or http://127.0.0.1:8889/lab
+[I 2022-07-03 17:49:20.023 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2022-07-03 17:49:24.900 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-07-03 17:49:24.904 ServerApp] 404 GET /api/contents/Alpaca/Alpaca.ipynb?content=0&1656884964901 (::1): No such file or directory: Alpaca/Alpaca.ipynb
+[W 2022-07-03 17:49:24.904 ServerApp] No such file or directory: Alpaca/Alpaca.ipynb
+[W 2022-07-03 17:49:24.904 ServerApp] 404 GET /api/contents/Alpaca/Alpaca.ipynb?content=0&1656884964901 (::1) 0.56ms referer=http://localhost:8889/lab
+[W 2022-07-03 17:49:25.549 ServerApp] 404 GET /api/contents/Alpaca?1656884965542 (::1): No such file or directory: Alpaca
+[W 2022-07-03 17:49:25.549 ServerApp] No such file or directory: Alpaca
+[W 2022-07-03 17:49:25.549 ServerApp] 404 GET /api/contents/Alpaca?1656884965542 (::1) 3.42ms referer=http://localhost:8889/lab
+[W 2022-07-03 17:49:29.791 ServerApp] Notebook Module_4_Challange.ipynb is not trusted
+[I 2022-07-03 17:49:30.122 ServerApp] Kernel started: 6664ffbf-03ae-4099-a31c-377be2683384
+[I 2022-07-03 17:50:04.451 ServerApp] Saving file at /Module_4_Challange.ipynb
+[W 2022-07-03 17:50:04.455 ServerApp] Notebook Module_4_Challange.ipynb is not trusted
+[I 2022-07-03 17:50:18.650 ServerApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
