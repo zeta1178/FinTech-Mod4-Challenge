@@ -156,3 +156,79 @@ TermSocket.open: Opened 1
 [I 2022-07-05 23:56:53.748 ServerApp] Saving file at /Module_4_Challange.ipynb
 [I 2022-07-05 23:58:53.877 ServerApp] Saving file at /Module_4_Challange.ipynb
 [I 2022-07-05 23:59:57.536 ServerApp] Saving file at /Module_4_Challange.ipynb
+[W 2022-07-06 00:00:21.448 ServerApp] Notebook whale_analysis.ipynb is not trusted
+[I 2022-07-06 00:00:21.776 ServerApp] Kernel started: 865833c3-7ab9-4b80-af75-e2403d722bd3
+[W 2022-07-06 00:01:33.272 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-07-06 00:01:35.114 ServerApp] Notebook whale_analysis.ipynb is not trusted
+[I 2022-07-06 00:02:21.700 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:03:40.735 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:05:40.803 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:07:40.875 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:09:40.977 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:11:41.757 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:13:41.856 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:14:53.837 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:16:53.934 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:18:54.016 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:24:54.092 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:26:54.199 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:27:41.602 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:29:41.724 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:31:41.829 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:33:41.948 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:34:20.371 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:36:20.492 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:38:20.593 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:40:20.694 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:41:57.755 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-06 00:42:20.817 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:46:20.927 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:48:21.036 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:50:21.187 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:52:21.320 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:54:21.445 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:56:21.569 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:56:38.788 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 00:58:39.018 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:00:39.144 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:02:39.279 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:04:19.144 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:05:23.571 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:07:23.716 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:09:23.851 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:17:23.993 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:19:24.136 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:21:13.449 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:23:13.553 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:25:13.694 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:27:13.835 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:29:13.980 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:31:14.121 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:33:14.262 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:33:37.258 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-06 01:35:14.395 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:37:14.546 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:39:14.688 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:41:14.835 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:43:14.963 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:45:15.103 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:47:15.258 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:48:29.351 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:54:21.800 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:56:21.967 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 01:58:22.113 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 02:00:22.241 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 02:02:22.379 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 02:04:24.190 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 02:08:25.196 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 02:10:25.347 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 02:12:25.489 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 02:14:25.718 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 02:16:25.859 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 02:18:22.293 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 02:20:22.441 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 02:22:22.588 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 02:24:22.795 ServerApp] Saving file at /whale_analysis.ipynb
+[I 2022-07-06 02:24:45.230 ServerApp] New terminal with automatic name: 3
+TermSocket.open: 3
+TermSocket.open: Opened 3
