@@ -97,3 +97,58 @@ TermSocket.open: Opened 2
 [I 2022-07-03 19:11:04.104 ServerApp] Saving file at /Module_4_Challange.ipynb
 [I 2022-07-03 19:12:06.190 ServerApp] Saving file at /Module_4_Challange.ipynb
 [I 2022-07-03 19:12:39.111 ServerApp] Saving file at /Module_4_Challange.ipynb
+Websocket closed
+Websocket closed
+[I 2022-07-03 19:12:51.278 ServerApp] Starting buffering for 6664ffbf-03ae-4099-a31c-377be2683384:b0520e1f-5218-4d37-904a-e6779602a74e
+[C 2022-07-03 19:14:02.188 ServerApp] received signal 15, stopping
+[I 2022-07-03 19:14:02.200 ServerApp] Shutting down 1 kernel
+[I 2022-07-03 19:14:02.211 ServerApp] Kernel shutdown: 6664ffbf-03ae-4099-a31c-377be2683384
+nohup: jupyter-lab: No such file or directory
+[I 2022-07-05 23:16:21.733 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-07-05 23:16:21.951 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-07-05 23:16:21.987 LabApp] JupyterLab extension loaded from /Users/michaelcruz/opt/anaconda3/envs/dev/lib/python3.8/site-packages/jupyterlab
+[I 2022-07-05 23:16:21.988 LabApp] JupyterLab application directory is /Users/michaelcruz/opt/anaconda3/envs/dev/share/jupyter/lab
+[I 2022-07-05 23:16:21.990 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-07-05 23:16:21.993 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-07-05 23:16:21.993 ServerApp] Serving notebooks from local directory: /Users/michaelcruz/git/FinTech-Mod4-Challenge
+[I 2022-07-05 23:16:21.993 ServerApp] Jupyter Server 1.4.1 is running at:
+[I 2022-07-05 23:16:21.993 ServerApp] http://localhost:8888/lab
+[I 2022-07-05 23:16:21.993 ServerApp]  or http://127.0.0.1:8888/lab
+[I 2022-07-05 23:16:21.993 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2022-07-05 23:16:26.116 LabApp] Could not determine jupyterlab build status without nodejs
+TermSocket.open: 2
+[I 2022-07-05 23:16:26.122 ServerApp] New terminal with specified name: 2
+TermSocket.open: Opened 2
+[W 2022-07-05 23:16:26.299 ServerApp] Notebook Module_4_Challange.ipynb is not trusted
+[I 2022-07-05 23:16:26.494 ServerApp] Kernel started: 609086c5-0c0f-4ff2-891d-7ae363a66c99
+[I 2022-07-05 23:18:26.453 ServerApp] Saving file at /Module_4_Challange.ipynb
+[W 2022-07-05 23:18:26.455 ServerApp] Notebook Module_4_Challange.ipynb is not trusted
+[I 2022-07-05 23:19:42.409 ServerApp] Saving file at /Module_4_Challange.ipynb
+[W 2022-07-05 23:19:42.412 ServerApp] Notebook Module_4_Challange.ipynb is not trusted
+[I 2022-07-05 23:21:42.528 ServerApp] Saving file at /Module_4_Challange.ipynb
+[W 2022-07-05 23:21:42.531 ServerApp] Notebook Module_4_Challange.ipynb is not trusted
+[I 2022-07-05 23:23:42.685 ServerApp] Saving file at /Module_4_Challange.ipynb
+[W 2022-07-05 23:23:42.688 ServerApp] Notebook Module_4_Challange.ipynb is not trusted
+[I 2022-07-05 23:25:42.806 ServerApp] Saving file at /Module_4_Challange.ipynb
+[W 2022-07-05 23:25:42.808 ServerApp] Notebook Module_4_Challange.ipynb is not trusted
+[I 2022-07-05 23:27:43.059 ServerApp] Saving file at /Module_4_Challange.ipynb
+[W 2022-07-05 23:27:43.062 ServerApp] Notebook Module_4_Challange.ipynb is not trusted
+[I 2022-07-05 23:29:43.176 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-05 23:31:43.305 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-05 23:33:43.416 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-05 23:34:06.728 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-05 23:36:06.851 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-05 23:38:06.978 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-05 23:40:07.096 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-05 23:42:07.221 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-05 23:44:07.348 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-05 23:44:57.255 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-05 23:46:57.386 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-05 23:48:57.523 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-05 23:50:57.665 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-05 23:52:04.181 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-05 23:52:13.535 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-05 23:52:28.829 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-05 23:52:41.662 ServerApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
