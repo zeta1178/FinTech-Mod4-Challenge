@@ -152,3 +152,7 @@ TermSocket.open: Opened 2
 [I 2022-07-05 23:52:41.662 ServerApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[I 2022-07-05 23:56:28.959 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-05 23:56:53.748 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-05 23:58:53.877 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-05 23:59:57.536 ServerApp] Saving file at /Module_4_Challange.ipynb
