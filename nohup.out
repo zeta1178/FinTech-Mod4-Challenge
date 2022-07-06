@@ -242,3 +242,37 @@ TermSocket.open: Opened 3
 [I 2022-07-06 02:42:52.522 ServerApp] Saving file at /Module_4_Challange.ipynb
 [I 2022-07-06 02:44:52.663 ServerApp] Saving file at /Module_4_Challange.ipynb
 [I 2022-07-06 02:45:33.894 ServerApp] Saving file at /Module_4_Challange.ipynb
+[I 2022-07-06 02:46:21.103 ServerApp] Starting buffering for 865833c3-7ab9-4b80-af75-e2403d722bd3:097418ae-05fc-4bee-b2ff-0bbe9a9a9195
+Websocket closed
+Websocket closed
+[I 2022-07-06 02:51:35.228 ServerApp] Starting buffering for 609086c5-0c0f-4ff2-891d-7ae363a66c99:d772897e-32e0-42f7-95ea-5ba8fa221dd1
+Websocket closed
+[W 2022-07-06 02:52:10.365 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-07-06 02:52:10.535 ServerApp] Notebook working_notebook.ipynb is not trusted
+[I 2022-07-06 02:52:15.930 ServerApp] Kernel shutdown: 609086c5-0c0f-4ff2-891d-7ae363a66c99
+[I 2022-07-06 02:52:15.938 ServerApp] Kernel shutdown: 865833c3-7ab9-4b80-af75-e2403d722bd3
+[I 2022-07-06 02:52:16.149 ServerApp] EOF on FD 67; stopping reading
+[I 2022-07-06 02:52:16.252 ServerApp] Terminal 3 closed
+[I 2022-07-06 02:52:16.252 ServerApp] EOF on FD 22; stopping reading
+[I 2022-07-06 02:52:16.358 ServerApp] Terminal 2 closed
+[I 2022-07-06 02:52:16.358 ServerApp] EOF on FD 19; stopping reading
+[I 2022-07-06 02:52:16.463 ServerApp] Terminal 1 closed
+[I 2022-07-06 02:52:16.491 ServerApp] Shutting down on /api/shutdown request.
+[I 2022-07-06 02:52:16.492 ServerApp] Shutting down 0 kernels
+[I 2022-07-06 02:54:28.888 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-07-06 02:54:29.093 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-07-06 02:54:29.128 LabApp] JupyterLab extension loaded from /Users/michaelcruz/opt/anaconda3/envs/dev/lib/python3.8/site-packages/jupyterlab
+[I 2022-07-06 02:54:29.129 LabApp] JupyterLab application directory is /Users/michaelcruz/opt/anaconda3/envs/dev/share/jupyter/lab
+[I 2022-07-06 02:54:29.131 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-07-06 02:54:29.134 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-07-06 02:54:29.134 ServerApp] Serving notebooks from local directory: /Users/michaelcruz/git/FinTech-Mod4-Challenge
+[I 2022-07-06 02:54:29.134 ServerApp] Jupyter Server 1.4.1 is running at:
+[I 2022-07-06 02:54:29.134 ServerApp] http://localhost:8888/lab
+[I 2022-07-06 02:54:29.134 ServerApp]  or http://127.0.0.1:8888/lab
+[I 2022-07-06 02:54:29.134 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2022-07-06 02:54:33.408 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-07-06 02:54:33.546 ServerApp] Notebook working_notebook.ipynb is not trusted
+[I 2022-07-06 02:54:33.899 ServerApp] Kernel started: 4bd5875f-5d32-46c2-b788-9dd6c970094c
+[I 2022-07-06 02:54:46.240 ServerApp] Kernel shutdown: 4bd5875f-5d32-46c2-b788-9dd6c970094c
+[I 2022-07-06 02:54:46.353 ServerApp] Shutting down on /api/shutdown request.
+[I 2022-07-06 02:54:46.354 ServerApp] Shutting down 0 kernels
